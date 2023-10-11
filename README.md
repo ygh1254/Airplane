@@ -1,8 +1,8 @@
 # Project about airplane fee
 
-## This project is aim to track airplane fee and figure out the relationship between date and fee.
+This project is aim to track airplane fee and figure out the relationship between date and fee.
 
---
+---
 
 ## Feature
 
