@@ -8,4 +8,4 @@ assignees: ygh1254
 ---
 
 - Write feature
-  - Write specifics
+  - [ ] Write specifics
