@@ -11,5 +11,5 @@ This project is aim to track airplane fee and figure out the relationship betwee
 - Select departure and arrival
 
 ### Back-End
-- Crolling Airplane Fee
+- Collecting Airplane Fee using Skyscanner API
 - Log Airplane Fee
