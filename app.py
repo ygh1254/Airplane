@@ -1,3 +1,4 @@
+import requests
 import gradio as gr
 
 def input(departure, arrival, year, month, day):
