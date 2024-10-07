@@ -13,3 +13,5 @@ This project is aim to track airplane fee and figure out the relationship betwee
 ### Back-End
 - Collecting Airplane Fee using Skyscanner API
 - Log Airplane Fee
+
+## FAILED AS API IS NOT AVAILABLE
